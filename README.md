@@ -49,7 +49,4 @@ Navigate to the repository directory:
 ```cd your-repository-name```
 
 Open the notebook:
-```jupyter notebook Final_Dimensioning.ipynb
-```
-
-
+```jupyter notebook Final_Dimensioning.ipynb```
