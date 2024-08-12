@@ -43,10 +43,6 @@ pip install opencv-python-headless matplotlib numpy scipy
 To run the notebook:
 
 Clone the repository:
-```git clone https://github.com/chalia082/3D-Object-Detection```
-
-Navigate to the repository directory:
-```cd your-repository-name```
-
-Open the notebook:
-```jupyter notebook Final_Dimensioning.ipynb```
+```git clone https://github.com/chalia082/3D-Object-Detection
+cd your-repository-name
+jupyter notebook Final_Dimensioning.ipynb```
